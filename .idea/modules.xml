@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/TcsCodeVita.iml" filepath="$PROJECT_DIR$/TcsCodeVita.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tcs-code-vita.iml" filepath="$PROJECT_DIR$/tcs-code-vita.iml" />
     </modules>
   </component>
 </project>
